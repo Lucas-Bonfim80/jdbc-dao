@@ -92,7 +92,7 @@ public class Seller implements Serializable {
                 ", email = " + email +
                 ", birthdate = " + birthdate +
                 ", baseSalary = " + baseSalary +
-                ", department = " + department;
+                ", Department {" + department + "}";
 
     }
 }
